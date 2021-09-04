@@ -5,6 +5,7 @@ import { theme } from './../../global/style/theme';
 export const styles = StyleSheet.create({
         container: {
             flexDirection:'row',
+            alignItems:'center'
         },
         user: {
             flexDirection: 'row'
